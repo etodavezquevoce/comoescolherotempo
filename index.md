@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+	<html>
+		<head>
+	<Title>Dicas Para durar "naquela hora"</Title>
+		<style type="text/css">
 
-You can use the [editor on GitHub](https://github.com/etodavezquevoce/comoescolherotempo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		*{text-transform:uppercase;font-family:Times,serif;font-size:47px;font-weight:normal}
+		.body{margin-top:37px;width:800px;border:1px solid black;background:#fff2cc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	  }
 
-### Markdown
+	}
+	  
+			</style>
+		</head>
+			<body bgcolor="#222">
+			<center><div class="body">
+			<h1 style="text-align:center">Dicas Para durar o tempo<br>que quiser<br>"naquela hora"</h1>
+			<img class="image" style="width:100%;height:45%" src="https://image.ibb.co/gPcKpU/Design_sem_nome_9_9.png"><br>	
+			<h2 style="font-family:'Impact',serif">depois de ver o fim do seu<br>relacionamento, julio viajou<br> o mundo e descobriu uma forma de<br>melhorar as sensações<br><MARK><SPAN style="font-family:'Impact',serif">e aumentar o tempo</span></MARK> <BR><MARK><SPAN style="font-family:'Impact',serif">CONSIDERAVELMENTE</h2></mark>
+</div>	<div class="body">
+			<br>
+			<h2 style="font-family:'Impact',serif;text-align:right;margin-right:20px">
+			Como o método funciona?
+			</h2>
+			<h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> 	 Julio César Campos,
+			trabalhador e esposo<br>
+	 dedicado, sofreu 6 anos por não durar muito<BR> Beatriz Costa Campos,
+	 sua parceira...nunca reclamou,<br> pois o amava e preferia omitir 
+	 a frustração.</h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Mas depois de tatos anos com a mesma rotina, Julio,<br>sentiu na pele a sensação de ser substituído, por<br> simplismente não ser suficiente </h3>
+	 <h3 style="font-size:37px;TEXT-TRANSFORM:NONE">
+	Desde esse dia Julio dedicou 3 anos da sua vida,<br> estudando sobre o assunto a fundo e procurando<br>formas eficazes para resolver esse problema...ele<br> tomou remédios, consultou médicos especializados<br> na área, mas sentiu que nada era realmente eficaz.  <h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Julio em uma tarde de sábado estava em uma ligação<br> com seu amigo de infância Mikhael, que estava<br> estudando na universidade Columbia, uma das mais<br>Renomadas dos Estados Unidos. Julio então <br>comentou sobre o que tinha acontecido, e falou também sobre o seu problema.</h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Mikhael disse que ele tinha um professor que havia <br>se especializado na área</h3>
+</div><div class="body"> 
+	<h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Peter após estudar 28 anos sobre o assunto, estava<br>mudando a vida de várias pessoas com um método que era totalmente natural, Julio sem hesitar, pediu para que seu amigo conversasse com Peter...para<br>que conseguisse ter acesso a tal método que já havia<br> mudado a vida mudado a vida de mais de 12 mil pessoas em todo USA. </h3>
+	
+	 <h3 style="font-size:37px;TEXT-TRANSFORM:NONE">
+	Clique no Vídeo abaixo onde o próprio júlio revela<br>DETALHADAMENTE a experiência incrível que mudou sua vida para sempre...
+	 </h3>
+	 <center><a href="http://juliocampos.site/facebook?src=Facebook%7CHTML&split=5">
+	<img class="image" style="width:97%;height:21%" src="http://brasilmanchete.com/imagens/botao.png?id=4"><a></center>
+	 <div class="body">
+	
+		 <h2 style="font-family:'Impact',serif">Veja agora</h3>
+		 <center><img src="https://supererecoes.com/wp-content/uploads/2017/10/arrow-1.png"><img src="https://supererecoes.com/wp-content/uploads/2017/10/arrow-1.png"><img src="https://supererecoes.com/wp-content/uploads/2017/10/arrow-1.png"></center>
+		 <br>
+		  <iframe style=" width: 90% !important; height: 41.8% !important;" src="https://www.youtube-nocookie.com/embed/klbpKGUHfA8?wmode=opaque&showinfo=0&autoplay=1&controls=0&modestbranding=1&rel=0&start=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+	<br>
+	<center><a target="_blank" href="http://mon.net.br/2074o?utm_source=Facebook|HTML1Vid|gifbutton"><img class="image" style="width:97%;height:23%" src="http://brasilmanchete.com/imagens/teste2.gif"><a></center>
+		 
+		 <br>
+<br>		
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etodavezquevoce/comoescolherotempo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		
+			</div></center>
+			</body>
+	</html>
